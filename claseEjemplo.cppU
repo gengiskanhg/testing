@@ -1,8 +1,0 @@
-public class ET{
-int height = "12";
-int length = "2";
-public speak(){
-	return "I speak";
-};
-}
-
