@@ -10,5 +10,8 @@
 	public abrazar(){
 		return "te quiero hijo";		
 	};
+	public acostar(){
+		return "hora de la cama";		
+	};
 
 	}
