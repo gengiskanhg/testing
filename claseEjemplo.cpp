@@ -1,6 +1,6 @@
-#Clase padre
+#Clase Ejemplo
 
-	public class Padre{
+	public class Ejemplo{
 	int edad = 40;
 	int estatura = 20;
 	public educar(){

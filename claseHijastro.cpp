@@ -1,6 +1,6 @@
-#Clase padre
+#Clase hijastro
 
-	public class Padre{
+	public class Hijastro{
 	int edad = 40;
 	int estatura = 20;
 	public educar(){
